@@ -123,7 +123,6 @@ aside img {
 }
 
 /*  Combined similar CSS into one */
-/*
 .benefit-lead img ,
 .benefit-brand img,
 .benefit-cost img {
@@ -131,8 +130,6 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
-
-*/
 
 /*  Combined similar CSS into one */
 .search-engine-optimization ,
