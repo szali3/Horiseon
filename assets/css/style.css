@@ -50,6 +50,23 @@ p {
     font-size: 16px;
 }
 
+aside img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
 .hero {
     height: 800px;
     width: 100%;
@@ -116,12 +133,6 @@ p {
     text-align: center;
 }
 
-aside img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 /*  Combined similar CSS into one */
 .benefit-lead img ,
 .benefit-brand img,
@@ -158,15 +169,4 @@ aside img {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
 }
